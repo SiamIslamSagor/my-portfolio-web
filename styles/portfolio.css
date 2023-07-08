@@ -31,8 +31,8 @@ body {
     color: #757575
     text-align: center;
     font-size: 18px;
+    text-align: center;
     /* padding-bottom: 130px; */
-    /* text-align: center; */
 }
 
 
@@ -127,4 +127,8 @@ main{
 
 .about-info{
     text-align: center;
+}
+
+#what-i-do-description{
+    padding: 30px 150px;
 }
